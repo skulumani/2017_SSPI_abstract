@@ -1,9 +1,11 @@
-## 2017 R&D Showcase abstract
+## 2017 SSPI Abstract
 
-This is the abstract for my submission to the 2017 R&D Showcase. 
+This is the abstract for my submission to the 2017 SSPI competition. 
 Of course, the **School of Engineering** does not provide a proper [LaTeX source file](https://www.seas.gwu.edu/student-participant-information) so instead I'm using this which I created several years ago.
 
 It's fairly close to what they desire and any differences are probably not going to be noticed.
+
+This is an extension/modification of the version submitted for the R&D showcase. 
 
 ## Remotes
 
